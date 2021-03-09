@@ -1,5 +1,6 @@
-#Kalkulator
+# Kalkulator - instrukcja obsługi
 
 To jest prosty projekt kalkulatora.
 
-Robimy go przy okazjinauki gita.
+Robimy go przy okazji nauki gita.
+
